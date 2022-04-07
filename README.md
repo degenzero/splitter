@@ -22,6 +22,3 @@ Navigate to the directory where the script exists and begin by typing `python3 j
 Enter the name of the JSON file (include the extension) when prompted, then enter the maximum number of MB for each file.
 
 The script will complete and equally split the JSON file into the appropriate number of files to stay under the maximum size.
-
-## Support
-Please [open an issue](https://github.com/jhsu98/json-splitter/issues/new) for support.
